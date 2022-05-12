@@ -1250,14 +1250,14 @@ M3X5 圆头黑色十字螺丝&lt;/p&gt;
 30% 零件採 Steel 製, 其餘採 Aluminum 製, 總重量約 2.2205kg
 全部零件採 Aluminum 製, 總重量約 1.4123kg
 全部零件採 Steel 製, 總重量約 4.1062kg&lt;/p&gt;
-&lt;hr&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>反向pull request雙人專案</title><link href="https://40723217.github.io/cd2022bg6/blog/w11_40723217bg6.html" rel="alternate"></link><published>2022-05-05T17:00:00+08:00</published><updated>2022-05-12T16:45:00+08:00</updated><author><name>40723217</name></author><id>tag:40723217.github.io,2022-05-05:/cd2022bg6/blog/w11_40723217bg6.html</id><summary type="html">&lt;p&gt;2022 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>反向pull request雙人專案</title><link href="https://40723217.github.io/cd2022bg6/blog/w11_40723217bg6.html" rel="alternate"></link><published>2022-05-05T17:00:00+08:00</published><updated>2022-05-12T16:54:32+08:00</updated><author><name>40723217</name></author><id>tag:40723217.github.io,2022-05-05:/cd2022bg6/blog/w11_40723217bg6.html</id><summary type="html">&lt;p&gt;2022 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
 &lt;h2&gt;專案操作說明&lt;/h2&gt;
 &lt;p&gt;雙人專案影片與操作說明&lt;/p&gt;
 &lt;script&gt;
-var winkVideoData_pelican = {
+var winkVideoData_member = {
   dataVersion: 1,
   frameRate: 10,
   buttonFrameLength: 5,
@@ -1267,8 +1267,8 @@ var winkVideoData_pelican = {
 };
 &lt;/script&gt;
 &lt;!-- 接下來將 mp4 檔案從 downloads 目錄取出 --&gt;
-&lt;div class="winkVideoContainerClass"&gt;&lt;video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData_pelican" height="630" muted="true" width="1008"&gt;
-&lt;source src="./../downloads/twomembersproject.mp4" type="video/mp4"/&gt;&lt;/video&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData_member" height="630" muted="true" width="1008"&gt;
+&lt;source src="./../downloads/w11/twomembersproject.mp4" type="video/mp4"/&gt;&lt;/video&gt;
 &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
 &lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
 &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
